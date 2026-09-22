@@ -91,3 +91,15 @@ footer .links{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px}
 .kres{margin-top:10px;font-size:.95em}
 .kres .row{display:flex;gap:10px;padding:6px 0;border-bottom:1px dashed var(--line)}
 .kres .row b{min-width:130px}
+
+/* оценка и поделиться */
+.fb{margin:30px 0 10px;padding:16px 18px;border:1px solid var(--line);border-radius:var(--radius);background:#fff;font-size:.95em}
+.fb-row{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.fb-row+.fb-row{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line)}
+.fb-q{font-weight:700;margin-right:4px}
+.fb-btn{cursor:pointer;font:inherit;border:1.5px solid var(--line);background:#fff;border-radius:999px;padding:6px 14px}
+.fb-btn:hover{border-color:var(--accent)}
+.fb-done .fb-btn{display:none}
+.fb-thanks{color:var(--muted)}
+.fb-share a{display:inline-block;padding:5px 12px;border:1.5px solid var(--line);border-radius:999px;background:#fff;text-decoration:none}
+.fb-share a:hover{border-color:var(--accent);text-decoration:none}
