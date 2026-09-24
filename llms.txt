@@ -20,5 +20,6 @@
 - [Happ Plus купить: где взять подписку и сколько стоит](https://happ-podpiska.online/happ-plus-kupit?utm_source=ai): приложение бесплатное, три сервиса сравнением, инструкция, ключи с площадок
 
 ## Служебное
+- Полные тексты всех страниц: https://happ-podpiska.online/llms-full.txt
 - Sitemap: https://happ-podpiska.online/sitemap.xml
 - Большой справочник по Happ: https://happ-wiki.online/?utm_source=ai
